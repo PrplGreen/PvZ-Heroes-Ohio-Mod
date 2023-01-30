@@ -6,6 +6,9 @@ Everything is done in Notepad++ with the help of UABE.
 Keep in mind, I will NOT share how to make such changes to the game and the files. You can look it up on YouTube anyways.
 
 
+All Patch Notes for each version can be found inside the game's "Help & About" menu. It's been replaced by the Ptach Notes.
+
+
 
 Download Notepad++ here: https://notepad-plus-plus.org/downloads/
 
