@@ -1,4 +1,4 @@
-# PvZ-Heroes-Ohio-Mod
+# PvZ-Heroes-Syndrome
 Official GitHub page for the goofy "Ohio Mod" for PvZ Heroes made by PurpleGreen. If you want to make any content out of this mod, be sure to credit my YouTube channel (no matter what platform your content is being uploaded to): http://www.youtube.com/@SussyGren
 
 
